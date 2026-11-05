@@ -1,9 +1,7 @@
-Form & Flow — Studio Edition
+Form & Flow — Artful Movement
 
-Visual redesign: warm ivory, botanical green, terracotta, editorial serif headings, playful abstract hero, friendly bottom navigation, and softer progress cards.
+Original geometric movement illustration, coral/blue/mint/citron palette, bold outlined editorial UI. No copied artwork.
 
-All existing workout data, features, exercise guides, logging, history, and localStorage key form-flow-local-v1 remain unchanged.
+Preserves existing program, logging, seven feature tools, history, and localStorage key.
 
-Installation: back up JSON in the app, unzip, upload contents to the existing GitHub Pages repo, then hard refresh.
-
-Note: Web fonts load online; Georgia/system fallbacks work offline.
+Before updating GitHub Pages export a JSON backup. Upload all extracted files including flow-tools.js, artful-movement.svg and exercise-gifs folder.
